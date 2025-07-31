@@ -1,1 +1,1 @@
-Concepts of Java and SpringBoots are applied in this project
+Concepts of Java and SpringBoot are applied in this project
